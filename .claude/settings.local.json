@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Claude_in_Chrome__tabs_context_mcp",
+      "Bash(ls \"/c/Users/SWH/OneDrive/Desktop/New folder \\(2\\)/stitch_ai_weapon_detection_system\")"
+    ]
+  }
+}
